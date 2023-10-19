@@ -2,19 +2,27 @@
 // import amazonMobT1x from '../img/amazon-mob-t1x.svg';
 
 import basketMob1x from '../img/basket-mob1x.png';
+console.log('😎 ~ basketMob1x:', basketMob1x);
 import basketMob2x from '../img/basket-mob2x.png';
+console.log('😎 ~ basketMob2x:', basketMob2x);
 
 // import bookMob1x from '../img/book-mob1x.svg';
 // import bookMobT1x from '../img/book-mob-t1x.svg';
 
 import amazon1x from '../img/amazon@1x.png';
+console.log('😎 ~ amazon1x:', amazon1x);
 import amazon2x from '../img/amazon@2x.png';
+console.log('😎 ~ amazon2x:', amazon2x);
 
 import book1x from '../img/apple-books@1x.png';
+console.log('😎 ~ book1x:', book1x);
 import book2x from '../img/apple-books@2x.png';
+console.log('😎 ~ book2x:', book2x);
 
 import imgBookMob1x from '../img/img-book-Mob1x.png';
+console.log('😎 ~ imgBookMob1x:', imgBookMob1x);
 import imgBookMob2x from '../img/img-book-Mob2x.png';
+console.log('😎 ~ imgBookMob2x:', imgBookMob2x);
 
 import { handlerClickMenu } from './header';
 import logoModuleFunction from './support';
