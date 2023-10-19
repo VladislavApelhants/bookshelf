@@ -46,17 +46,7 @@ function createEmptyCart() {
       <p class="empty-list-text">
         This page is empty, add some books and proceed to order.
       </p>
-      <img
-         class="empty-list-img"
-         src="${imgBookMob1x}"
-         srcset="
-         ${imgBookMob1x} 1x,
-         ${imgBookMob2x} 2x
-         "
-        alt="books"
-        width="265"
-        height="198"
-         />
+      
       </div>`;
   bookList.innerHTML = markup;
 }
